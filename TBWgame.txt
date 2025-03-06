@@ -1,0 +1,180 @@
+Welcome to TIME BLITZ WARFARE data file:
+Player User ID: 91
+Computer User ID: 129
+Results: Game 1
+
+PLAYER(die) Bombshell:
+Defense: 0
+Level: 10
+
+PLAYER: Bombshell:
+Defense: 0
+Level: 10
+COMPUTER: Plane:
+Defense: 10
+Level: 10
+
+PLAYER: Plane:
+Defense: 10
+Level: 0
+COMPUTER(die) Bombshell:
+Defense: 0
+Level: 10
+COMPUTER: Bombshell:
+Defense: 0
+Level: 10
+
+PLAYER(die) Bombshell:
+Defense: 0
+Level: 10
+
+PLAYER: Bombshell:
+Defense: 0
+Level: 10
+COMPUTER: Plane:
+Defense: 10
+Level: 10
+Results: Game 2
+
+PLAYER: Plane:
+Defense: 5
+Level: 0
+COMPUTER: Frigate:
+Defense: 15
+Level: 0
+
+PLAYER: Frigate:
+Defense: 10
+Level: 0
+COMPUTER: Bombshell:
+Defense: 10
+Level: 0
+
+PLAYER(die) Frigate:
+Defense: 0
+Level: 10
+
+PLAYER: Frigate:
+Defense: 0
+Level: 10
+COMPUTER: Plane:
+Defense: 5
+Level: 10
+Results: Game 3
+
+PLAYER(die) Plane:
+Defense: 0
+Level: 10
+
+PLAYER: Plane:
+Defense: 0
+Level: 10
+COMPUTER(die) Plane:
+Defense: 0
+Level: 20
+COMPUTER: Plane:
+Defense: 0
+Level: 20
+
+PLAYER: Frigate:
+Defense: 15
+Level: 0
+COMPUTER: Frigate:
+Defense: 5
+Level: 0
+
+PLAYER(die) Bombshell:
+Defense: 0
+Level: 10
+
+PLAYER: Bombshell:
+Defense: 0
+Level: 10
+COMPUTER(die) Plane:
+Defense: -5
+Level: 20
+COMPUTER: Plane:
+Defense: -5
+Level: 20
+Results: Game 4
+
+PLAYER: Siha:
+Defense: 5
+Level: 0
+COMPUTER(die) Bombshell:
+Defense: -10
+Level: 10
+COMPUTER: Bombshell:
+Defense: -10
+Level: 10
+
+PLAYER: Frigate:
+Defense: 10
+Level: 0
+COMPUTER: Bombshell:
+Defense: 10
+Level: 0
+
+PLAYER(die) Plane:
+Defense: -5
+Level: 10
+
+PLAYER: Plane:
+Defense: -5
+Level: 10
+COMPUTER(die) Kfs:
+Defense: -10
+Level: 10
+COMPUTER: Kfs:
+Defense: -10
+Level: 10
+Results: Game 5
+
+PLAYER: Frigate:
+Defense: 5
+Level: 0
+COMPUTER(die) Plane:
+Defense: -5
+Level: 10
+COMPUTER: Plane:
+Defense: -5
+Level: 10
+
+PLAYER(die) Siha:
+Defense: -5
+Level: 10
+
+PLAYER: Siha:
+Defense: -5
+Level: 10
+COMPUTER(die) Bombshell:
+Defense: -10
+Level: 10
+COMPUTER: Bombshell:
+Defense: -10
+Level: 10
+
+PLAYER(die) Frigate:
+Defense: 0
+Level: 10
+
+PLAYER: Frigate:
+Defense: 0
+Level: 10
+COMPUTER(die) Frigate:
+Defense: -5
+Level: 10
+COMPUTER: Frigate:
+Defense: -5
+Level: 10
+
+War is finish
+Computer: Plane
+Computer: Siha
+
+Player: Frigate
+Player: Plane
+
+winner is player(score)
+Score player: 100
+Score computer: 80
